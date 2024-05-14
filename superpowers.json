@@ -1,20 +1,11 @@
 [
     {
-        "name": "Flying",
-        "description": "The ability to fly through the air.",
+        "name": "Phase Dash",
+        "description": "By using this fiction, the user can phase through objects when they dash at them but for every object phased through within an hour, user's speed halves. The hour starts after the first phase and the speed resets to normal after the hour.",
         "abilities": [
-            "Ability to soar at high speeds",
-            "Ability to carry heavy objects while flying",
-            "Enhanced maneuverability in the air"
+            "Dash through walls",
+            "Dash thorugh people like a ghost",
+            "Unlimited uses but at the price of speed"
         ]
     },
-    {
-        "name": "Invisibility",
-        "description": "The ability to become invisible.",
-        "abilities": [
-            "Ability to disappear from sight",
-            "Ability to move undetected",
-            "Enhanced stealth capabilities"
-        ]
-    }
-]
+
