@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Flying",
+        "description": "The ability to fly through the air.",
+        "abilities": [
+            "Ability to soar at high speeds",
+            "Ability to carry heavy objects while flying",
+            "Enhanced maneuverability in the air"
+        ]
+    },
+    {
+        "name": "Invisibility",
+        "description": "The ability to become invisible.",
+        "abilities": [
+            "Ability to disappear from sight",
+            "Ability to move undetected",
+            "Enhanced stealth capabilities"
+        ]
+    }
+]
