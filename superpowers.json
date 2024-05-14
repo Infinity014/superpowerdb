@@ -1,6 +1,6 @@
 [
     {
-        "name": "Phase Dash",
+        "name": "PhaseDash",
         "description": "By using this fiction, the user can phase through objects when they dash at them but for every object phased through within an hour, user's speed halves. The hour starts after the first phase and the speed resets to normal after the hour.",
         "abilities": [
             "Dash through walls",
